@@ -6,6 +6,12 @@
 
 I am currently learning about React and GraphQL, and I am also participating in a web development boot camp. My skills are focused on front-end development, but I am actively studying to become a full-stack developer.
 
+📫 How to reach me:
+alonsojacoboher@gmail.com
+https://www.linkedin.com/in/adjh96/
+https://twitter.com/alonsojacobo8
+
+ 
 
 
 
